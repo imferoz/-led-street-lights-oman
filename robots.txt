@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://led-street-lights-oman.alwejhagroup.com/sitemap.xml
